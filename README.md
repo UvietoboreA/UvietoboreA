@@ -1,7 +1,7 @@
-- Hi, I’m Uvie Joshua
-- I’m interested in Python Development
-- I’m looking to collaborate on Back-end Development projects using Python
-- You can reach me through my email - uviejosh@gmail.com
+- I’m Uvie Joshua, a Mechatronics Engineering graduate
+- I have a solid foundation in Machine Learning and Data Analysis
+- I’m open to collaborate on projects involving Python
+- You can reach me through my email to collaborate on projects - uviejosh@gmail.com
 - Pronouns: He/Him
 
 
