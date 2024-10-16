@@ -1,5 +1,5 @@
 - I’m Uvie Joshua, a Mechatronics Engineering graduate
-- I have a solid foundation in Machine Learning and Data Analysis
+- I have a solid foundation in Machine Learning, Data Science and Data Analysis
 - I’m open to collaborate on projects involving Python
 - You can reach me through my email to collaborate on projects - uviejosh@gmail.com
 - Pronouns: He/Him
