@@ -1,7 +1,7 @@
 #  Hi, I'm Uvietobore Joshua Adjugah!  
-###  Data Scientist | Machine Learning Engineer | Mechatronics Engineer  
+###  Junior Data Scientist | Machine Learning Engineer | Mechatronics Engineer  
 
-📍 FCT, Abuja, Nigeria | ✉️ uviejosh@gmail.com  
+📍 London | ✉️ uviejosh@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a) | 🔗 [GitHub](https://github.com/UvietoboreA) | 📊 [Portfolio](https://www.datascienceportfol.io/uviejosh)  
 
 ---
@@ -12,8 +12,6 @@ I am an **analytical and creative data scientist** with a background in **Mechat
 - **Machine Learning & NLP**, specializing in model building and deployment  
 - **Web Scraping** with BeautifulSoup and Selenium  
 - **End-to-End Model Deployment** with **Flask, FastAPI, and AWS SageMaker**  
-- **Frontend Development** using **HTML & CSS** for simple, interactive web applications  
-- **CI/CD Pipelines** using **GitHub Actions** for automated workflows  
 
 I am passionate about **solving real-world problems** with data and using **AI to drive data-driven decision-making**.  
 
@@ -26,7 +24,7 @@ I am passionate about **solving real-world problems** with data and using **AI t
 🔹 **Web Scraping:** BeautifulSoup, Selenium, Requests  
 🔹 **Database Management:** MySQL, SQLite, BigQuery  
 🔹 **Data Visualization:** Matplotlib, Seaborn, Power BI  
-🔹 **Cloud & DevOps:** AWS (EC2, Lambda, API Gateway), CI/CD with GitHub Actions  
+🔹 **Cloud & DevOps:** AWS (EC2, Lambda, API Gateway)
 
 ---
 
