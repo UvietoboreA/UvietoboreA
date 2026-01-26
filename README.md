@@ -20,11 +20,10 @@ I am passionate about **solving real-world problems** with data and using **AI t
 ## 🔥 Skills  
 🔹 **Programming:** Python, SQL, HTML, CSS  
 🔹 **Machine Learning:** Supervised & Unsupervised Learning, NLP, Deep Learning  
-🔹 **Model Deployment:** Flask, FastAPI, AWS SageMaker, Docker  
+🔹 **Model Deployment:** Flask, FastAPI, Docker  
 🔹 **Web Scraping:** BeautifulSoup, Selenium, Requests  
 🔹 **Database Management:** MySQL, SQLite, BigQuery  
 🔹 **Data Visualization:** Matplotlib, Seaborn, Power BI  
-🔹 **Cloud & DevOps:** AWS (EC2, Lambda, API Gateway)
 
 ---
 
