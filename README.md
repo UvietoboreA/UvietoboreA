@@ -11,7 +11,7 @@ I am an **analytical and creative data scientist** with a background in **Mechat
 - **Python & SQL** for data analysis, automation, and backend scripting  
 - **Machine Learning & NLP**, specializing in model building and deployment  
 - **Web Scraping** with BeautifulSoup and Selenium  
-- **End-to-End Model Deployment** with **Flask, FastAPI, and AWS SageMaker**  
+- **End-to-End Model Deployment** with **Flask and FastAPI**  
 
 I am passionate about **solving real-world problems** with data and using **AI to drive data-driven decision-making**.  
 
