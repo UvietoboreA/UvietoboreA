@@ -28,27 +28,31 @@ I am passionate about **solving real-world problems** with data and using **AI t
 ---
 
 ## 🚀 Notable Projects  
+
+### **Customer Churn Analysis Project**  
+- Analysed a customer churn dataset to identify key factors influencing customer retention using Python. 
+- Performed data cleaning, exploratory analysis, and feature engineering to understand patterns. 
+- Compared different classification models, to predict churn and interpret the impact of individual features. 
+- Identified major drivers of churn, and translated findings into clear, data-backed recommendations. 
+- Communicated results through concise visualisations and written summaries designed for non-technical stakeholders.
+
+🔗 [Project Repository](https://github.com/UvietoboreA?tab=repositories)  
+
+### **Bank Marketing Campaign Optimisation**  
+- Analysed a bank marketing dataset to understand factors influencing customer response to campaigns.
+- Cleaned and prepared data, and conducted exploratory analysis to assess the impact of customer characteristics, contact timing, and previous campaign outcomes.
+- Built interpretable classification models, to estimate response likelihood and support campaign optimisation.
+- Used model to identify customers with higher expected response rates, informing more efficient strategies.
+- Presented findings through clear visual summaries and written insights aimed at non-technical stakeholders.
+
+🔗 [Project Repository](https://github.com/UvietoboreA/bank-marketing-campaign-optimisation)  
+
 ### 🛫 **Exploring Customer Sentiment with NLP & Web Scraping**  
-🔹 Scraped **airline customer reviews** with **BeautifulSoup** and analyzed sentiment using **NLP techniques**.  
-🔹 Identified **key themes & concerns** to improve customer experience.  
-🛠️ **Tech:** Python, BeautifulSoup, NLP, Pandas, Seaborn  
+- Scraped **airline customer reviews** with **BeautifulSoup** and analyzed sentiment using **NLP techniques**.  
+- Identified **key themes & concerns** to improve customer experience.  
+- **Tech:** Python, BeautifulSoup, NLP, Pandas, Seaborn  
 
-🔗 [Project Repository](https://github.com/UvietoboreA?tab=repositories)  
-
-### 🏦 **Loan Prediction Model**  
-🔹 Built a **classification & regression model** to predict loan eligibility.  
-🔹 Improved **transparency & decision-making** for lenders and borrowers.  
-🛠️ **Tech:** Python, Scikit-learn, Pandas, Seaborn  
-
-🔗 [Project Repository](https://github.com/UvietoboreA?tab=repositories)  
-
-### 🫀 **Heart Disease Prediction (Deployed with Flask)**  
-🔹 Developed a **Random Forest model** to assess heart disease risk.  
-🔹 **Previously built** a similar model, but now enhanced with **preprocessing & deployment**.  
-🔹 **Deployed it with Flask** for real-time user interaction.  
-🛠️ **Tech:** Python, Flask, Scikit-learn, HTML, CSS  
-
-🔗 [GitHub Repo](https://github.com/UvietoboreA/Deploying-Heart-Disease-Model-with-Flask)  
+🔗 [Project Repository](https://github.com/UvietoboreA/academic-ml-archive)  
 
 ---
 
@@ -60,7 +64,7 @@ I am passionate about **solving real-world problems** with data and using **AI t
 ---
 
 ## 🤝 Connect With Me  
-💼 **LinkedIn:** [Uvietobore Joshua Adjugah](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a)  
+💼 **LinkedIn:** [Uvietobore Joshua Adjugah](https://www.linkedin.com/in/uvietobore-adjugah)  
 📧 **Email:** uviejosh@gmail.com  
 🌍 **Portfolio:** [My Data Science Work](https://www.datascienceportfol.io/uviejosh)  
 
