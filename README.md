@@ -36,7 +36,7 @@ I am passionate about **solving real-world problems** with data and using **AI t
 - Identified major drivers of churn, and translated findings into clear, data-backed recommendations. 
 - Communicated results through concise visualisations and written summaries designed for non-technical stakeholders.
 
-🔗 [Project Repository](https://github.com/UvietoboreA?tab=repositories)  
+🔗 [Project Repository](https://github.com/UvietoboreA/customer-churn-precision-optimisation)  
 
 ### **Bank Marketing Campaign Optimisation**  
 - Analysed a bank marketing dataset to understand factors influencing customer response to campaigns.
