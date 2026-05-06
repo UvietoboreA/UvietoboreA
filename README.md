@@ -1,28 +1,26 @@
 #  Hi, I'm Uvietobore Joshua Adjugah!  
-###  Junior Data Scientist | Machine Learning Engineer | Mechatronics Engineer  
+###  MSc Data Science & Artificial Intelligence Candidate | Data Scientist | Machine Learning Engineer 
 
 📍 London | ✉️ uviejosh@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a) | 🔗 [GitHub](https://github.com/UvietoboreA) | 📊 [Portfolio](https://www.datascienceportfol.io/uviejosh)  
 
 ---
 
-## 👨‍💻 About Me  
-I am an **analytical and creative data scientist** with a background in **Mechatronics Engineering**. My expertise spans across:  
-- **Python & SQL** for data analysis, automation, and backend scripting  
-- **Machine Learning & NLP**, specializing in model building and deployment  
-- **Web Scraping** with BeautifulSoup and Selenium  
-- **End-to-End Model Deployment** with **Flask and FastAPI**  
+## About Me  
+I am a Data Science & Artificial Intelligence postgraduate with a strong background in analytical problem-solving, machine learning, and scalable data systems. I enjoy building data-driven solutions that move beyond experimentation into real-world impact — from predictive modelling and fraud detection to end-to-end deployment and business insight generation.
 
-I am passionate about **solving real-world problems** with data and using **AI to drive data-driven decision-making**.  
+My experience includes developing machine learning pipelines, working with large and imbalanced datasets, performing statistical analysis, and deploying models using FastAPI. I am particularly interested in applying AI and analytics to solve complex business problems in areas such as fintech, risk modelling, customer behaviour, and intelligent decision systems.
+
+I thrive in fast-paced environments that value curiosity, ownership, and continuous learning, and I enjoy translating technical findings into actionable insights for decision-making.
 
 ---
 
-## 🔥 Skills  
-🔹 **Programming:** Python, SQL, HTML, CSS  
-🔹 **Machine Learning:** Supervised & Unsupervised Learning, NLP, Deep Learning  
-🔹 **Model Deployment:** Flask, FastAPI, Docker  
-🔹 **Web Scraping:** BeautifulSoup, Selenium, Requests  
-🔹 **Database Management:** MySQL, SQLite, BigQuery  
+## Skills  
+🔹 **Programming:** Python, SQL, HTML, CSS, R
+🔹 **Data Science & Machine Learning:** Supervised & Unsupervised Learning, Classification & Regression Models, Feature Engineering, Model Evaluation & Threshold Tuning, Statistical Analysis & Hypothesis Testing, Natural Language Processing (NLP), Deep Learning
+🔹 **Big Data & Data Engineering:** PySpark & Spark MLlib, Hadoop / HDFS, ETL Pipelines, Data Cleaning & Validation, Data Preprocessing
+🔹 **Model Deployment and Tools:** Flask, FastAPI, Docker, Git & GitHub, Jupyter Notebook
+🔹 **Databases & Cloud:** MySQL, SQLite, BigQuery  
 🔹 **Data Visualization:** Matplotlib, Seaborn, Power BI  
 
 ---
@@ -47,25 +45,42 @@ I am passionate about **solving real-world problems** with data and using **AI t
 
 🔗 [Project Repository](https://github.com/UvietoboreA/bank-marketing-campaign-optimisation)  
 
-### 🛫 **Exploring Customer Sentiment with NLP & Web Scraping**  
-- Scraped **airline customer reviews** with **BeautifulSoup** and analyzed sentiment using **NLP techniques**.  
-- Identified **key themes & concerns** to improve customer experience.  
-- **Tech:** Python, BeautifulSoup, NLP, Pandas, Seaborn  
-
-🔗 [Project Repository](https://github.com/UvietoboreA/academic-ml-archive)  
+### 🛫 **Scalable Credit Card Fraud Detection Using PySpark**  
+- Built Logistic Regression, Random Forest, and Gradient Boosting models 
+- Performed feature engineering and preprocessing using PySpark
+- Applied class weighting and threshold tuning to optimise fraud recall
+- Evaluated models using ROC-AUC, PR-AUC, precision, recall, and F1-score
+- Analysed fraud-risk trade-offs relevant to real-world financial systems
+- **Tech:** Python, PySpark, Spark MLlib, Hadoop, SQL  
 
 ---
 
-## 🎯 Certifications & Achievements  
+## Certifications & Achievements  
 - **Kaggle Courses:** Python, Pandas, SQL, Feature Engineering, Machine Learning  
 - **Afe Babalola Merit Award of Excellence (2019)**  
 - **British Airways Data Science Job Simulation – November 2024**  
 
 ---
 
-## 🤝 Connect With Me  
-💼 **LinkedIn:** [Uvietobore Joshua Adjugah](https://www.linkedin.com/in/uvietobore-adjugah)  
-📧 **Email:** uviejosh@gmail.com  
-🌍 **Portfolio:** [My Data Science Work](https://www.datascienceportfol.io/uviejosh)  
+## Education
+- MSc Data Science & Artificial Intelligence
+- Goldsmiths University of London, London, UK
+- Expected Graduation: September 2026
 
+- Relevant Areas:
+* Machine Learning
+* Big Data Analytics
+* Statistical Modelling
+* Artificial Intelligence
+* Data Mining
+
+📈 Current Interests
+* Applied Machine Learning
+* Fraud Detection & Risk Analytics
+* AI Systems & Model Deployment
+* Data Engineering & Scalable Analytics
+* Fintech & Intelligent Decision Systems
+* Production ML & Data Drift Monitoring
+
+  
 🚀 Let's collaborate on **exciting data-driven projects!** Feel free to **fork my repositories**, contribute, or reach out!  
