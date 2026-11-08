@@ -135,6 +135,8 @@ Developed a scalable machine learning workflow for identifying fraudulent financ
 
 **Tech:** Python • PySpark • Spark MLlib • Hadoop • SQL • Machine Learning
 
+🔗 [View Project Repository](https://github.com/UvietoboreA/scalable-credit-card-fraud-detection-pyspark)
+
 ---
 
 ## Additional Project Areas
