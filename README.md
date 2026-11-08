@@ -1,86 +1,208 @@
-#  Hi, I'm Uvietobore Joshua Adjugah!  
-###  MSc Data Science & Artificial Intelligence Candidate | Data Scientist | Machine Learning Engineer 
+# Hi, I'm Uvietobore Joshua Adjugah 👋
 
-📍 London | ✉️ uviejosh@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a) | 🔗 [GitHub](https://github.com/UvietoboreA) | 📊 [Portfolio](https://www.datascienceportfol.io/uviejosh)  
+### Data Science & Artificial Intelligence MSc | Data Scientist | Data Engineer | Machine Learning
 
----
+📍 London, UK  
+✉️ uviejosh@gmail.com  
 
-## About Me  
-I am a Data Science & Artificial Intelligence postgraduate with a strong background in analytical problem-solving, machine learning, and scalable data systems. I enjoy building data-driven solutions that move beyond experimentation into real-world impact — from predictive modelling and fraud detection to end-to-end deployment and business insight generation.
-
-My experience includes developing machine learning pipelines, working with large and imbalanced datasets, performing statistical analysis, and deploying models using FastAPI. I am particularly interested in applying AI and analytics to solve complex business problems in areas such as fintech, risk modelling, customer behaviour, and intelligent decision systems.
-
-I thrive in fast-paced environments that value curiosity, ownership, and continuous learning, and I enjoy translating technical findings into actionable insights for decision-making.
+[LinkedIn](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a) • [Portfolio](https://www.datascienceportfol.io/uviejosh) • [GitHub](https://github.com/UvietoboreA)
 
 ---
 
-## Skills  
-🔹 **Programming:** Python, SQL, HTML, CSS, R
-🔹 **Data Science & Machine Learning:** Supervised & Unsupervised Learning, Classification & Regression Models, Feature Engineering, Model Evaluation & Threshold Tuning, Statistical Analysis & Hypothesis Testing, Natural Language Processing (NLP), Deep Learning
-🔹 **Big Data & Data Engineering:** PySpark & Spark MLlib, Hadoop / HDFS, ETL Pipelines, Data Cleaning & Validation, Data Preprocessing
-🔹 **Model Deployment and Tools:** Flask, FastAPI, Docker, Git & GitHub, Jupyter Notebook
-🔹 **Databases & Cloud:** MySQL, SQLite, BigQuery  
-🔹 **Data Visualization:** Matplotlib, Seaborn, Power BI  
+## About Me
+
+I am a **Data Science & Artificial Intelligence MSc graduate** with experience across **data science, machine learning, data engineering, analytics, and business intelligence**.
+
+I enjoy building solutions across the full data lifecycle — from ingesting and cleaning raw data, designing transformation pipelines and analytical datasets, through to machine learning modelling and presenting insights in dashboards.
+
+My recent work includes building an **end-to-end analytics platform in Microsoft Fabric using a Bronze → Silver → Gold medallion architecture**, alongside projects in customer churn, financial fraud detection, marketing analytics, NLP, computer vision, and forecasting.
+
+I am particularly interested in opportunities involving:
+
+- Data Science
+- Data Engineering
+- Machine Learning
+- Analytics & Business Intelligence
+- AI systems
+- Financial and risk analytics
 
 ---
 
-## 🚀 Notable Projects  
+## Technical Skills
 
-### **Customer Churn Analysis Project**  
-- Analysed a customer churn dataset to identify key factors influencing customer retention using Python. 
-- Performed data cleaning, exploratory analysis, and feature engineering to understand patterns. 
-- Compared different classification models, to predict churn and interpret the impact of individual features. 
-- Identified major drivers of churn, and translated findings into clear, data-backed recommendations. 
-- Communicated results through concise visualisations and written summaries designed for non-technical stakeholders.
+**Programming & Querying**  
+Python • SQL • R • HTML • CSS
 
-🔗 [Project Repository](https://github.com/UvietoboreA/customer-churn-precision-optimisation)  
+**Data Engineering**  
+Microsoft Fabric • PySpark • Apache Spark • Spark MLlib • Hadoop/HDFS • ETL/ELT Pipelines • Medallion Architecture • Delta Lake • OneLake • Data Validation
 
-### **Bank Marketing Campaign Optimisation**  
-- Analysed a bank marketing dataset to understand factors influencing customer response to campaigns.
-- Cleaned and prepared data, and conducted exploratory analysis to assess the impact of customer characteristics, contact timing, and previous campaign outcomes.
-- Built interpretable classification models, to estimate response likelihood and support campaign optimisation.
-- Used model to identify customers with higher expected response rates, informing more efficient strategies.
-- Presented findings through clear visual summaries and written insights aimed at non-technical stakeholders.
+**Data Science & Machine Learning**  
+Scikit-learn • Classification • Regression • Feature Engineering • Model Evaluation • Threshold Tuning • Imbalanced Learning • Statistical Analysis • Hypothesis Testing
 
-🔗 [Project Repository](https://github.com/UvietoboreA/bank-marketing-campaign-optimisation)  
+**Artificial Intelligence**  
+Natural Language Processing • Deep Learning • PyTorch • TensorFlow/Keras • Computer Vision
 
-### 🛫 **Scalable Credit Card Fraud Detection Using PySpark**  
-- Built Logistic Regression, Random Forest, and Gradient Boosting models 
-- Performed feature engineering and preprocessing using PySpark
-- Applied class weighting and threshold tuning to optimise fraud recall
-- Evaluated models using ROC-AUC, PR-AUC, precision, recall, and F1-score
-- Analysed fraud-risk trade-offs relevant to real-world financial systems
-- **Tech:** Python, PySpark, Spark MLlib, Hadoop, SQL  
+**Business Intelligence & Visualisation**  
+Power BI • DAX • Matplotlib • Seaborn
+
+**Databases & Cloud**  
+MySQL • SQLite • BigQuery • Microsoft Fabric • Azure
+
+**Deployment & Development Tools**  
+FastAPI • Flask • Docker • Git • GitHub • Jupyter Notebook
 
 ---
 
-## Certifications & Achievements  
-- **Kaggle Courses:** Python, Pandas, SQL, Feature Engineering, Machine Learning  
-- **Afe Babalola Merit Award of Excellence (2019)**  
-- **British Airways Data Science Job Simulation – November 2024**  
+# Featured Projects
+
+## Microsoft Fabric UK Online Retail Analytics Platform
+
+Built an **end-to-end data engineering and analytics solution in Microsoft Fabric** using more than **541,000 retail transaction records**.
+
+### What I built
+
+- Designed a **Bronze → Silver → Gold medallion architecture**
+- Ingested raw Excel data into a Fabric Lakehouse
+- Built PySpark transformations for cleaning, validation and standardisation
+- Implemented SHA-256 based deterministic deduplication
+- Classified sales, cancellations, accounting adjustments and review records
+- Created business-ready Gold tables for sales, customers, products and countries
+- Orchestrated the workflow using a Fabric Data Factory pipeline
+- Added retries and failure-notification branches
+- Configured scheduled execution
+- Monitored end-to-end pipeline runs using Fabric Monitoring Hub
+- Built a Direct Lake semantic model
+- Developed a Power BI dashboard using DAX measures
+
+### Dashboard Results
+
+- **£10.63M** gross sales revenue
+- **£9.73M** net revenue
+- **£893.98K** cancellation value
+- **21K** orders
+- **4K+** customers
+- **£513.05** average order value
+
+**Tech:** Microsoft Fabric • PySpark • Delta Lake • OneLake • Data Factory • Direct Lake • Power BI • DAX
+
+🔗 [View Project Repository](https://github.com/UvietoboreA/uk-online-retail-fabric)
+
+---
+
+## Customer Churn Prediction & Precision Optimisation
+
+Built a machine learning workflow to identify customers at risk of churn and explore the factors influencing customer retention.
+
+- Performed data cleaning, exploratory analysis and feature engineering
+- Built and compared classification models
+- Evaluated model performance using business-relevant metrics
+- Used threshold tuning to improve prediction strategy
+- Identified major churn drivers
+- Translated model findings into actionable customer-retention insights
+
+**Tech:** Python • Pandas • Scikit-learn • Machine Learning • Data Visualisation
+
+🔗 [View Project Repository](https://github.com/UvietoboreA/customer-churn-precision-optimisation)
+
+---
+
+## Bank Marketing Campaign Optimisation
+
+Analysed customer marketing data to understand the factors influencing campaign response and improve targeting efficiency.
+
+- Performed exploratory analysis and data preparation
+- Investigated customer, contact and campaign characteristics
+- Built classification models to estimate response likelihood
+- Identified higher-probability customer segments
+- Converted analytical findings into business-focused recommendations
+
+**Tech:** Python • Pandas • Scikit-learn • Classification • EDA
+
+🔗 [View Project Repository](https://github.com/UvietoboreA/bank-marketing-campaign-optimisation)
+
+---
+
+## Scalable Credit Card Fraud Detection Using PySpark
+
+Developed a scalable machine learning workflow for identifying fraudulent financial transactions.
+
+- Built Logistic Regression, Random Forest and Gradient Boosting models
+- Performed preprocessing and feature engineering using PySpark
+- Addressed severe class imbalance
+- Applied class weighting and decision-threshold optimisation
+- Evaluated models using ROC-AUC, PR-AUC, precision, recall and F1-score
+- Analysed the trade-off between fraud detection and false positives
+
+**Tech:** Python • PySpark • Spark MLlib • Hadoop • SQL • Machine Learning
+
+---
+
+## Additional Project Areas
+
+My other academic and portfolio work includes:
+
+- Retail sales forecasting
+- Stroke prediction using imbalanced machine learning
+- NLP stance detection
+- Customer and sales analytics using SQL
+- CNN-based image classification with PyTorch
+- MRI classification for CN/MCI/AD
+- Neural networks and optimisation
+- Hadoop MapReduce
+- Spark RDD processing
 
 ---
 
 ## Education
-- MSc Data Science & Artificial Intelligence
-- Goldsmiths University of London, London, UK
-- Expected Graduation: September 2026
 
-- Relevant Areas:
-* Machine Learning
-* Big Data Analytics
-* Statistical Modelling
-* Artificial Intelligence
-* Data Mining
+### MSc Data Science & Artificial Intelligence  
+**Goldsmiths, University of London**
 
-📈 Current Interests
-* Applied Machine Learning
-* Fraud Detection & Risk Analytics
-* AI Systems & Model Deployment
-* Data Engineering & Scalable Analytics
-* Fintech & Intelligent Decision Systems
-* Production ML & Data Drift Monitoring
+Key areas:
 
-  
-🚀 Let's collaborate on **exciting data-driven projects!** Feel free to **fork my repositories**, contribute, or reach out!  
+- Machine Learning
+- Artificial Intelligence
+- Big Data Analytics
+- Statistical Modelling
+- Data Mining
+- Neural Networks
+- Data Engineering
+
+### Bachelor's Degree in Engineering
+
+---
+
+## Certifications & Achievements
+
+- Kaggle — Python
+- Kaggle — Pandas
+- Kaggle — SQL
+- Kaggle — Feature Engineering
+- Kaggle — Machine Learning
+- British Airways Data Science Job Simulation
+- Afe Babalola Merit Award of Excellence
+
+---
+
+## Current Focus
+
+I am currently developing my skills and portfolio around:
+
+- End-to-end data engineering
+- Microsoft Fabric and modern data platforms
+- Applied machine learning
+- Fraud detection and risk analytics
+- AI and ML systems
+- Scalable analytics
+- Production-ready data pipelines
+- Business intelligence and decision support
+
+---
+
+## Let's Connect
+
+I'm open to opportunities in **Data Science, Data Engineering, Machine Learning and Analytics**, particularly roles where I can work on real-world data problems and continue developing production-focused technical skills.
+
+📍 London, UK  
+✉️ uviejosh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/uvietobore-joshua-adjugah-2b548621a)
